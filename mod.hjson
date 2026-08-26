@@ -1,7 +1,7 @@
 displayName: "MindTech"
 name: "mind-tech"
 author: "Aaron"
-main: "example.ExampleJavaMod"
+main: "example.MindTech"
 description: "Мод добавляющий много нового контента."
 version: 0.1
 minGameVersion: 158
