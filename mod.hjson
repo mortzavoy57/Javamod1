@@ -1,5 +1,5 @@
-displayName: "Руды"
-name: "ore-mod"
+displayName: "MindTech"
+name: "mind-tech"
 author: "Aaron"
 main: "example.ExampleJavaMod"
 description: "Мод добавляющий много нового контента."
