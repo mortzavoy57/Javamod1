@@ -6,9 +6,9 @@ import mindustry.game.EventType.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-public class ExampleJavaMod extends Mod{
+public class MindTech extends Mod{
 
-    public ExampleJavaMod(){
+    public MindTech(){
         Log.info("Loaded ExampleJavaMod constructor.");
 
         //listen for game load event
