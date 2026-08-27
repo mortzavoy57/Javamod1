@@ -15,6 +15,7 @@ public class MindTech extends Mod{
 
     public void loadContent(){
         MTItems.load();
+        MTBlocks.load();
 
         Log.info("MindTech Loaded Complete.");
     }
