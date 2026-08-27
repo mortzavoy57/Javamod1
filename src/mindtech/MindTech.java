@@ -1,4 +1,4 @@
-package example;
+package mindtech;
 
 import arc.*;
 import arc.util.*;
@@ -9,7 +9,7 @@ import mindustry.ui.dialogs.*;
 public class MindTech extends Mod{
 
     public MindTech(){
-        Log.info("Loaded ExampleJavaMod constructor.");
+        Log.info("Loaded MindTech constructor.");
 
         //listen for game load event
         Events.on(ClientLoadEvent.class, e -> {
