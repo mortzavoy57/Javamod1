@@ -10,7 +10,7 @@ import mindustry.ui.dialogs.*;
 public class MindTech extends Mod{
 
     public MindTech(){
-        Log.info("Loaded ExampleJavaMod constructor.");
+        Log.info("Loaded MindTech constructor.");
     }
 
     public void loadContent(){
