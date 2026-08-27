@@ -15,7 +15,6 @@ public class MindTech extends Mod{
     @Override
     public void loadContent(){
         MTItems.load();
-        
         Log.info("MindTech Loaded Complete.");
     }
 
