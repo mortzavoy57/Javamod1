@@ -15,7 +15,6 @@ public class MindTech extends Mod{
 
     public void loadContent(){
         MTItems.load();
-        Blocks.load();
 
         Log.info("MindTech Loaded Complete.");
     }
