@@ -3,6 +3,6 @@ name: "mind-tech"
 author: "Aaron"
 main: "mindtech.MindTech"
 description: "Мод добавляющий много нового контента."
-version: 0.7
+version: 0.9
 minGameVersion: 158
 java: true
