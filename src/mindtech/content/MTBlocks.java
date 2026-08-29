@@ -44,7 +44,6 @@ public class MTBlocks {
             outputItems = with(MTItems.iron, 2);
 
             craftEffect = Fx.pulverizeMedium;
-            updateEffect = Fx.smeltsmoke;
         }};
 
         steelSmelter = new GenericCrafter("steel-smelter") {{
@@ -65,7 +64,6 @@ public class MTBlocks {
             outputItems = with(MTItems.steel, 2);
 
             craftEffect = Fx.pulverizeMedium;
-            updateEffect = Fx.smeltsmoke;
         }};
     }
 }
