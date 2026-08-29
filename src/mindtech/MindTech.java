@@ -1,0 +1,26 @@
+package mindtech;
+
+import arc.*;
+import arc.util.*;
+import mindtech.content.MTBlocks;
+import mindtech.content.MTItems;
+import mindtech.content.MTTechTree;
+import mindustry.game.EventType.*;
+import mindustry.mod.*;
+import mindustry.ui.dialogs.*;
+
+public class MindTech extends Mod{
+
+    public MindTech(){
+        Log.info("Loaded ExampleJavaMod constructor.");
+    }
+
+    public void loadContent(){
+        MTItems.load();
+        MTBlocks.load();
+        MTTechTree.load();
+
+        Log.info("MindTech Loaded Complete.");
+    }
+
+}
